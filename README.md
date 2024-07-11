@@ -43,6 +43,8 @@
 
 <img src="https://raw.githubusercontent.com/JuniorBandeira7/JuniorBandeira7/output/snake.svg" alt="Snake animation" />
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312hcp6gpr24vl2cpja7a7iejmde&cover_image=false&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 ###
 
 
