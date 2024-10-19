@@ -1,6 +1,17 @@
 <h2 align="left">Hi 👋! My name is Julio and I'm a computer science student</h2>
 
 ###
+<br/>
+<br/>
+<br/>
+<div align="center">
+  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorBandeira7&&hide=html,css&langs_count=6&layout=compact&theme=dark)
+ 
+</div>
+<br/>
+<br/>
+<br/>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
